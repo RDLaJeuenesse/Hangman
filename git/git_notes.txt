@@ -1,2 +1,8 @@
-1. clone a central repository on your local machine: git clone [URL of repository]
-2. git re
+Steps to use git
+1. git clone [URL of repository]: clone a central repository on your local machine
+2. git remote -v: shows the central repository URL
+3. git status: shows what files are stagged and unstagged green or red respectively
+4. git add [filename or *(for all)]: adds files to be uploaded to the central repository
+5. git reset [filename or *(for all)]: unstageds a file
+6. git commit -m ["Message"]: Commits the changes to the files to be uploaded
+7. git push origin master: this will push the files to the central repository
