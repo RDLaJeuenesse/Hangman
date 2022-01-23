@@ -1,0 +1,2 @@
+1. clone a central repository on your local machine: git clone [URL of repository]
+2. git re
